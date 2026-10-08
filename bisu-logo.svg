@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+  <title id="title">BISU DIGITAL NETWORK</title>
+  <desc id="desc">BISU wordmark with a violet signal node</desc>
+  <rect width="720" height="220" rx="36" fill="#111114"/>
+  <circle cx="64" cy="82" r="12" fill="#7C5CFC"/>
+  <text x="98" y="112" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-5">BISU</text>
+  <text x="101" y="158" fill="#C7ED58" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">DIGITAL NETWORK</text>
+  <path d="M98 180h420" stroke="#7C5CFC" stroke-width="3" stroke-linecap="round"/>
+</svg>

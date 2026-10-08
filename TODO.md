@@ -1,0 +1,10 @@
+# BISU DIGITAL NETWORK outcome items
+
+- **Safe customer-facing catalog:** The storefront offers a customer-facing service catalog limited to legitimate offerings: Instagram views, high-quality Instagram likes, website creation, mobile app creation, and a general inquiry for Instagram, Facebook, YouTube, and Telegram services. It excludes every listing involving hacking, cheating, unauthorized location tracking, or disclosure of personal identity, address, or alternate phone data.
+- **Service detail and pricing clarity:** Service cards and detail views show service names, Indian Rupee pricing, concise descriptions, expected customer inputs, and prominent calls to action.
+- **Razorpay payment actions:** Instagram views are shown at ₹60 with an explicit external payment link to https://rzp.io/rzp/x6VYI3kg, and high-quality Instagram likes are shown at ₹35 with an explicit external payment link to https://rzp.io/rzp/XkSob2x. Each external action is clearly labeled as opening Razorpay.
+- **Shopify cart and checkout:** Eligible storefront services can be added to a Shopify-powered cart, with quantity review, item removal, pricing summary, and a clear path to Shopify checkout.
+- **Post-payment WhatsApp support:** After payment, the site shows instructions and an explicit WhatsApp contact button for +916296989639 so customers can manually open WhatsApp and send a screenshot plus username and service details.
+- **Trust and privacy notices:** The site explains that payment is not automatically verified and screenshots or customer details are not transmitted unless the customer chooses to send them.
+- **Responsive storefront navigation:** The storefront is optimized for mobile and desktop, with easy access to the catalog, cart, checkout, external payment actions, and WhatsApp support.
+- **Preview and delivery readiness:** The app serves `/manus-routes.json`, passes the project's typecheck/build checks, and is checkpointed only after the Shopify integration and storefront behavior are implemented and verified.
